@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\FuncExample\bin\Debug\net8.0\FuncExample.exe
+D:\C#Practice\CSharpMastery\FuncExample\bin\Debug\net8.0\FuncExample.deps.json
+D:\C#Practice\CSharpMastery\FuncExample\bin\Debug\net8.0\FuncExample.runtimeconfig.json
+D:\C#Practice\CSharpMastery\FuncExample\bin\Debug\net8.0\FuncExample.dll
+D:\C#Practice\CSharpMastery\FuncExample\bin\Debug\net8.0\FuncExample.pdb
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.sourcelink.json
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.dll
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\refint\FuncExample.dll
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.pdb
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\FuncExample.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\FuncExample\obj\Debug\net8.0\ref\FuncExample.dll

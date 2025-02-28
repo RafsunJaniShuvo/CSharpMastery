@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\bin\Debug\net9.0\MinimumAbsoluteDifference.exe
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\bin\Debug\net9.0\MinimumAbsoluteDifference.deps.json
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\bin\Debug\net9.0\MinimumAbsoluteDifference.runtimeconfig.json
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\bin\Debug\net9.0\MinimumAbsoluteDifference.dll
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\bin\Debug\net9.0\MinimumAbsoluteDifference.pdb
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.sourcelink.json
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.dll
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\refint\MinimumAbsoluteDifference.dll
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.pdb
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\MinimumAbsoluteDifference.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\MinimumAbsoluteDifference\obj\Debug\net9.0\ref\MinimumAbsoluteDifference.dll

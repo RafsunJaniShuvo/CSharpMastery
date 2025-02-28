@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\Partial\bin\Debug\net8.0\Partial.exe
+D:\C#Practice\CSharpMastery\Partial\bin\Debug\net8.0\Partial.deps.json
+D:\C#Practice\CSharpMastery\Partial\bin\Debug\net8.0\Partial.runtimeconfig.json
+D:\C#Practice\CSharpMastery\Partial\bin\Debug\net8.0\Partial.dll
+D:\C#Practice\CSharpMastery\Partial\bin\Debug\net8.0\Partial.pdb
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.sourcelink.json
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.dll
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\refint\Partial.dll
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.pdb
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\Partial.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\Partial\obj\Debug\net8.0\ref\Partial.dll
