@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\NestedList\bin\Debug\net8.0\NestedList.exe
+D:\C#Practice\CSharpMastery\NestedList\bin\Debug\net8.0\NestedList.deps.json
+D:\C#Practice\CSharpMastery\NestedList\bin\Debug\net8.0\NestedList.runtimeconfig.json
+D:\C#Practice\CSharpMastery\NestedList\bin\Debug\net8.0\NestedList.dll
+D:\C#Practice\CSharpMastery\NestedList\bin\Debug\net8.0\NestedList.pdb
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.sourcelink.json
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.dll
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\refint\NestedList.dll
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.pdb
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\NestedList.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\NestedList\obj\Debug\net8.0\ref\NestedList.dll
