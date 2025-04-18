@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.exe
+D:\C#Practice\CSharpMastery\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.deps.json
+D:\C#Practice\CSharpMastery\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.runtimeconfig.json
+D:\C#Practice\CSharpMastery\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.dll
+D:\C#Practice\CSharpMastery\PalindromeCheck\bin\Debug\net8.0\PalindromeCheck.pdb
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.sourcelink.json
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.dll
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\refint\PalindromeCheck.dll
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.pdb
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\PalindromeCheck.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\PalindromeCheck\obj\Debug\net8.0\ref\PalindromeCheck.dll
