@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\ValidParethesis\bin\Debug\net8.0\ValidParethesis.exe
+D:\C#Practice\CSharpMastery\ValidParethesis\bin\Debug\net8.0\ValidParethesis.deps.json
+D:\C#Practice\CSharpMastery\ValidParethesis\bin\Debug\net8.0\ValidParethesis.runtimeconfig.json
+D:\C#Practice\CSharpMastery\ValidParethesis\bin\Debug\net8.0\ValidParethesis.dll
+D:\C#Practice\CSharpMastery\ValidParethesis\bin\Debug\net8.0\ValidParethesis.pdb
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.sourcelink.json
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.dll
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\refint\ValidParethesis.dll
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.pdb
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ValidParethesis.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\ValidParethesis\obj\Debug\net8.0\ref\ValidParethesis.dll

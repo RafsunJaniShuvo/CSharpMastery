@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\bin\Debug\net8.0\LongestCommoPrefix.exe
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\bin\Debug\net8.0\LongestCommoPrefix.deps.json
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\bin\Debug\net8.0\LongestCommoPrefix.runtimeconfig.json
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\bin\Debug\net8.0\LongestCommoPrefix.dll
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\bin\Debug\net8.0\LongestCommoPrefix.pdb
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.sourcelink.json
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.dll
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\refint\LongestCommoPrefix.dll
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.pdb
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\LongestCommoPrefix.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\LongestCommoPrefix\obj\Debug\net8.0\ref\LongestCommoPrefix.dll

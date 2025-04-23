@@ -1,0 +1,15 @@
+D:\C#Practice\CSharpMastery\RemoveDuplicate\bin\Debug\net8.0\RemoveDuplicate.exe
+D:\C#Practice\CSharpMastery\RemoveDuplicate\bin\Debug\net8.0\RemoveDuplicate.deps.json
+D:\C#Practice\CSharpMastery\RemoveDuplicate\bin\Debug\net8.0\RemoveDuplicate.runtimeconfig.json
+D:\C#Practice\CSharpMastery\RemoveDuplicate\bin\Debug\net8.0\RemoveDuplicate.dll
+D:\C#Practice\CSharpMastery\RemoveDuplicate\bin\Debug\net8.0\RemoveDuplicate.pdb
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.AssemblyInfoInputs.cache
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.AssemblyInfo.cs
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.csproj.CoreCompileInputs.cache
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.sourcelink.json
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.dll
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\refint\RemoveDuplicate.dll
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.pdb
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\RemoveDuplicate.genruntimeconfig.cache
+D:\C#Practice\CSharpMastery\RemoveDuplicate\obj\Debug\net8.0\ref\RemoveDuplicate.dll
